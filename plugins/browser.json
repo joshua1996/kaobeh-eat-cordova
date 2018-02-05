@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.indieDream.kaobeheat"
+    },
+    "cordova-plugin-browsersync": {
+      "PACKAGE_NAME": "com.indieDream.kaobeheat"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.indieDream.kaobeheat"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.indieDream.kaobeheat"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.indieDream.kaobeheat"
+    }
+  }
+}
