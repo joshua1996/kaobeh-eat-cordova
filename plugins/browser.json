@@ -7,13 +7,13 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.indieDream.kaobeheat"
-    },
     "cordova-plugin-browsersync": {
       "PACKAGE_NAME": "com.indieDream.kaobeheat"
     },
     "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.indieDream.kaobeheat"
+    },
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.indieDream.kaobeheat"
     }
   },

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/test/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/test/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/android_project/android_project.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/android_project/android_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/platforms/android/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-plugin-badge/src/cordova-plugin-badge.iml" filepath="$PROJECT_DIR$/node_modules/cordova-plugin-badge/src/cordova-plugin-badge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-badge/src/cordova-plugin-badge1.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-badge/src/cordova-plugin-badge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-plugin-device/src/cordova-plugin-device.iml" filepath="$PROJECT_DIR$/node_modules/cordova-plugin-device/src/cordova-plugin-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-device/src/cordova-plugin-device1.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/cordova-plugin-device1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-local-notification/src/cordova-plugin-local-notification.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-local-notification/src/cordova-plugin-local-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-plugin-local-notification/src/cordova-plugin-local-notification1.iml" filepath="$PROJECT_DIR$/node_modules/cordova-plugin-local-notification/src/cordova-plugin-local-notification1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" filepath="$PROJECT_DIR$/node_modules/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist1.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/platforms/android/app/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/framework/framework.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/android_studio_project/app/src/main/main.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/android_studio_project/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/test/app/src/main/main1.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/test/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/org.test.plugins.dummyplugin/plugin-lib/plugin-lib.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/org.test.plugins.dummyplugin/plugin-lib/plugin-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/org.test.plugins.dummyplugin/plugin-lib2/plugin-lib2.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/spec/fixtures/org.test.plugins.dummyplugin/plugin-lib2/plugin-lib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/node_modules/properties-parser/properties-parser.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/node_modules/properties-parser/properties-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/cordova/node_modules/properties-parser/properties-parser1.iml" filepath="$PROJECT_DIR$/platforms/android/cordova/node_modules/properties-parser/properties-parser1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/app/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/platforms/android/app/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/bin/templates/templates.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/cordova-android/test/app/src/test/test.iml" filepath="$PROJECT_DIR$/node_modules/cordova-android/test/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

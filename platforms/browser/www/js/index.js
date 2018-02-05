@@ -19,6 +19,7 @@
 var appCordova = {
     // Application Constructor
     initialize: function () {
+        console.log('addEventListener');
         document.addEventListener('deviceready', this.onDeviceReady.bind(this), false);
     },
 
@@ -27,7 +28,9 @@ var appCordova = {
     // Bind any cordova events here. Common events are:
     // 'pause', 'resume', etc.
     onDeviceReady: function () {
+        console.log('deviceready');
         this.receivedEvent('deviceready');
+       
         // var socket = io('http://localhost:4000');
         // socket.on('news', function (data) {
         //     console.log(data);
@@ -36,7 +39,7 @@ var appCordova = {
         //     });
         // });
 
-
+        console.log(cordova);
         cordova.plugins.notification.local.schedule({
             title: "Notification 1 Title",
             text: "Notification Text",

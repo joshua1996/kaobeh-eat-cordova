@@ -1,0 +1,4 @@
+#Mon Feb 05 23:30:38 SGT 2018
+base.0=D\:\\Users\\kjw19\\Desktop\\kaobeh-eat\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Users\\kjw19\\Desktop\\kaobeh-eat\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

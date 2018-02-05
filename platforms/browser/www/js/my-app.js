@@ -1,7 +1,7 @@
 //phone must enable wifi to access google map locate!!!
 
 Template7.global = {
-    url: 'http://localhost/kaobeh-eat-db/'
+    url: 'http://kaobeheat.bojioong.xyz/'
 };
 //http://kaobeheat.bojioong.xyz/
 //http://localhost/kaobeh-eat-db/
@@ -55,6 +55,10 @@ $(document).on('page:init', '.page[data-name="intro"]', function (e) {
     }
 });
 app.init();
+
+$$(document).on('deviceready', function() {
+ 
+});
 
 var swiper = app.swiper.create('.swiper-container', {
     pagination: {
@@ -110,6 +114,13 @@ var circle;
 var map;
 $(document).on('page:init', '.page[data-name="map"]', function (e) {
 
+    cordova.plugins.notification.local.schedule({
+        title: "Notification 1 Title",
+        text: "Notification Text",
+        led: "FF0000",
+        badge: 1
+    });
+    
     map = new GMaps({
         el: '#map',
         lat: -12.043333,
